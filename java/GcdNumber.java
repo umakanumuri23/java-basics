@@ -9,6 +9,7 @@ public class GcdNumber {
             num2 = num1%num2;
             num1 = temp;
         }
+
         System.out.println(num1);
 
 
